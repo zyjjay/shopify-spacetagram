@@ -1,0 +1,41 @@
+
+
+button.like-btn {
+    color: white;
+    margin: 0;
+    position: absolute;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 8px 16px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.collection-card {
+    background-color: #F9F8F8;
+    display: inline-block;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-bottom: 100px;
+    margin-right: 35px;
+}
+
+.collection-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+.description {
+    font-family: 'Open Sans', sans-serif;
+}
