@@ -7,7 +7,7 @@ export default function Home(props) {
     const { startDate } = props
     console.log(startDate)
     const URL = "https://api.nasa.gov/planetary/apod"
-    const APIKey = "ZIi8LiAAgWO3CAB5bcPImcXkA4jxTz4sKgR64uFj"
+    const APIKey = process.env.REACT_APP_NASA_KEY
 
     const { data, isPending, error } = useFetch(`${URL}?api_key=${APIKey}&start_date=${startDate}`)
     const [liked, setLiked] = useState(false)
