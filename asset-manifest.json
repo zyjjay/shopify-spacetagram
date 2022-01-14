@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopify-spacetagram/static/css/main.f68ca883.css",
+    "main.js": "/shopify-spacetagram/static/js/main.53eae558.js",
+    "static/js/787.f5e181bb.chunk.js": "/shopify-spacetagram/static/js/787.f5e181bb.chunk.js",
+    "index.html": "/shopify-spacetagram/index.html",
+    "main.f68ca883.css.map": "/shopify-spacetagram/static/css/main.f68ca883.css.map",
+    "main.53eae558.js.map": "/shopify-spacetagram/static/js/main.53eae558.js.map",
+    "787.f5e181bb.chunk.js.map": "/shopify-spacetagram/static/js/787.f5e181bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68ca883.css",
+    "static/js/main.53eae558.js"
+  ]
+}
