@@ -10,6 +10,7 @@
     font-size: 50px;
     font-style: bold;
     text-align: center;
+    margin-bottom: 0px;
 }
 
 .container {
@@ -19,4 +20,9 @@
     /* align-items: center; */
     text-align: center;
     margin-bottom: 20px;
+}
+
+.api_ref {
+    text-align: center;
+    color: grey;
 }

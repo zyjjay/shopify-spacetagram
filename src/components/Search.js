@@ -15,7 +15,7 @@ export default function Search() {
     return (
         <>
             <h1 className="title">Spacetagram</h1>
-
+            <p className="api_ref">Powered by NASA's APOD API</p>
             <div className="container">
                 <form className="search-form" onSubmit={handleSubmit}>
                     <label>
