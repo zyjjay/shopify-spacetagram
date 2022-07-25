@@ -1,5 +1,7 @@
 # Spacetagram
 
+An instagram-like web app that showcases pictures taken by NASA through the APOD (Astronomy Picture Of the Day) API.
+
 React App is deployed here: https://zyjjay.github.io/shopify-spacetagram/
 
 # Getting Started with Create React App
